@@ -2,8 +2,6 @@
 
 Hosted with ❤ by GitHub  
 
-A portfolio website that can be used to show your projects or other information. The site is live at [navendu.me](https://navendu-pottekkat.github.io/)
-
 If that does not convince you, here are some other reason that might make you build one:
 
 * Your work will be seen by others.
