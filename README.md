@@ -10,7 +10,7 @@ If that does not convince you, here are some other reason that might make you bu
 * You will be able to see how you evolve.
 * Who do you trust more? A person who *says* they have created something or a person who *shows* what they have created?
 
-Here is a preview of the website. 
+Here is a preview of the Project. <br>
 <a href="https://coderiderr.github.io/3D-Carousel-Effect/">Live Demo</a>
 
 ## Editing / Personalisation
